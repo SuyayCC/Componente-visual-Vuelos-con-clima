@@ -28,5 +28,6 @@ Se coloca el componete en el panel
 ![image](https://github.com/user-attachments/assets/999ec459-cfa1-44e1-9179-4508fa12846d)
 
 Posteriormente se ejecuta (corre) y colocas la información del  vuelo recuerda que hay limitantes).
+![image](https://github.com/user-attachments/assets/2dd02360-edbb-40c3-a1bc-f9bc166e4e69)
 
 
